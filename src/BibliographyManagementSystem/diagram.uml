@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="43.5" y="-34.5">BibliographyManagementSystem</node>
+    <node x="3839.0" y="-34.5">com</node>
+    <node x="3649.5" y="-34.5">images</node>
+    <node x="3464.0" y="-34.5">netscape</node>
+    <node x="3302.0" y="-34.5">org</node>
+    <node x="3139.5" y="-34.5">dsld</node>
+    <node x="2975.0" y="-34.5">kotlin</node>
+    <node x="2699.0" y="-34.5">toolbarButtonGraphics</node>
+    <node x="2541.5" y="-34.5">sun</node>
+    <node x="2339.5" y="-34.5">META-INF</node>
+    <node x="2183.0" y="-34.5">jdk</node>
+    <node x="1934.5" y="-34.5">groovyjarjarantlr4</node>
+    <node x="1700.0" y="-34.5">groovyjarjarasm</node>
+    <node x="1540.0" y="-34.5">java</node>
+    <node x="1370.0" y="-34.5">groovy</node>
+    <node x="1196.5" y="-34.5">javax</node>
+    <node x="932.0" y="-34.5">groovyjarjarpicocli</node>
+    <node x="634.0" y="-34.5">groovyjarjarcommonscli</node>
+    <node x="398.5" y="-34.5">groovyjarjarantlr</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic Compact" zoom="0.2541899441340782" showDependencies="false" x="2002.0000000000002" y="-20.0" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
